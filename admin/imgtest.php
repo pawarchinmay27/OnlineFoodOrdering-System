@@ -1,0 +1,1 @@
+<img src="<?php echo "productimages/images/kabab.jpg"; ?>">
